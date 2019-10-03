@@ -3,10 +3,16 @@
 
 #include "pch.h"
 #include <iostream>
+using namespace std;
+
+int number = 0;
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	
+    cout << "Hello Universe!\n"; 
+	number = 1;
+	cout << "thanks!";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
